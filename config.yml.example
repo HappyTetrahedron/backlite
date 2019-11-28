@@ -1,0 +1,5 @@
+backlight-action: "/path/to/backlight/script"
+use-sudo: true
+host: 0.0.0.0
+port: 7979
+
